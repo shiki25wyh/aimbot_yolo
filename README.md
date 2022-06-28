@@ -5,6 +5,6 @@ $ pip install -r requirements
 Open CSGO first  
 $ python aimbot.py  
   
-press E or Q break  
+press E or Q to break  
   
 The model is only for testing, which is not precise enough. 
