@@ -6,3 +6,5 @@ Open CSGO first
 $ python aimbot.py  
   
 press E or Q break  
+  
+The model is only for testing, which is not precise enough. 
