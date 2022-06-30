@@ -2,7 +2,9 @@
 $ git clone https://github.com/shiki25wyh/aimbot_yolo.git  
 $ cd aimbot_yolo  
 $ pip install -r requirements  
-
+clone yolov5 repo  
+$ git clone https://github.com/ultralytics/yolov5.git  
+copy the aimbot_yolo to to yolov5's folder
 Open CSGO first  
 $ python aimbot.py  
   
