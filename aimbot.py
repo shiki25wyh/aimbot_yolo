@@ -12,7 +12,7 @@ import pydirectinput
 pyautogui.FAILSAFE = False
 import time
 # Model
-model = torch.hub.load('.', 'custom', path='exp17/best.pt', source='local')
+model = torch.hub.load('.', 'custom', path='exp17/weights/best.pt', source='local')
 game = pygetwindow.getWindowsWithTitle('Counter-Strike: Global Offensive - Direct3D 9')[0]
 y1,x1 = game.topleft
 scwidth = game.width
